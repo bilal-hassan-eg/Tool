@@ -1,0 +1,15 @@
+G:\binary_hex_binary_ECU\binary_hex_binary_ECU\bin\Debug\net6.0\binary_hex_binary_ECU.exe
+G:\binary_hex_binary_ECU\binary_hex_binary_ECU\bin\Debug\net6.0\binary_hex_binary_ECU.deps.json
+G:\binary_hex_binary_ECU\binary_hex_binary_ECU\bin\Debug\net6.0\binary_hex_binary_ECU.runtimeconfig.json
+G:\binary_hex_binary_ECU\binary_hex_binary_ECU\bin\Debug\net6.0\binary_hex_binary_ECU.dll
+G:\binary_hex_binary_ECU\binary_hex_binary_ECU\bin\Debug\net6.0\binary_hex_binary_ECU.pdb
+G:\binary_hex_binary_ECU\binary_hex_binary_ECU\obj\Debug\net6.0\binary_hex_binary_ECU.csproj.AssemblyReference.cache
+G:\binary_hex_binary_ECU\binary_hex_binary_ECU\obj\Debug\net6.0\binary_hex_binary_ECU.GeneratedMSBuildEditorConfig.editorconfig
+G:\binary_hex_binary_ECU\binary_hex_binary_ECU\obj\Debug\net6.0\binary_hex_binary_ECU.AssemblyInfoInputs.cache
+G:\binary_hex_binary_ECU\binary_hex_binary_ECU\obj\Debug\net6.0\binary_hex_binary_ECU.AssemblyInfo.cs
+G:\binary_hex_binary_ECU\binary_hex_binary_ECU\obj\Debug\net6.0\binary_hex_binary_ECU.csproj.CoreCompileInputs.cache
+G:\binary_hex_binary_ECU\binary_hex_binary_ECU\obj\Debug\net6.0\binary_hex_binary_ECU.dll
+G:\binary_hex_binary_ECU\binary_hex_binary_ECU\obj\Debug\net6.0\refint\binary_hex_binary_ECU.dll
+G:\binary_hex_binary_ECU\binary_hex_binary_ECU\obj\Debug\net6.0\binary_hex_binary_ECU.pdb
+G:\binary_hex_binary_ECU\binary_hex_binary_ECU\obj\Debug\net6.0\binary_hex_binary_ECU.genruntimeconfig.cache
+G:\binary_hex_binary_ECU\binary_hex_binary_ECU\obj\Debug\net6.0\ref\binary_hex_binary_ECU.dll

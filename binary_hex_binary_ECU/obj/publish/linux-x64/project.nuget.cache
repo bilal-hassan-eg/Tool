@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "kuDgrvAFrvv+Q4z3kT48FqQ0FBOEtW3JciWAiSH9AOKP50t0y2zjobRnjBaeJJQ+vhTUuIG7L9Gp58u3okiCmg==",
+  "success": true,
+  "projectFilePath": "G:\\binary_hex_binary_ECU\\binary_hex_binary_ECU\\binary_hex_binary_ECU.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rhsan\\.nuget\\packages\\microsoft.netcore.app.runtime.linux-x64\\6.0.7\\microsoft.netcore.app.runtime.linux-x64.6.0.7.nupkg.sha512",
+    "C:\\Users\\rhsan\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.linux-x64\\6.0.7\\microsoft.aspnetcore.app.runtime.linux-x64.6.0.7.nupkg.sha512",
+    "C:\\Users\\rhsan\\.nuget\\packages\\microsoft.netcore.app.host.linux-x64\\6.0.7\\microsoft.netcore.app.host.linux-x64.6.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}

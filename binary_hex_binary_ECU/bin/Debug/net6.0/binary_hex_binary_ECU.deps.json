@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "binary_hex_binary_ECU/1.0.0": {
+        "runtime": {
+          "binary_hex_binary_ECU.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "binary_hex_binary_ECU/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
